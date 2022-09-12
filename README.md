@@ -1,0 +1,2 @@
+# DataPruning
+Studentarbeit in ISG
